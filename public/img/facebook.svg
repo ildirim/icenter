@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="11px" viewBox="0 0 5 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook-letter-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="2.5 11 0 11 0 0 2.5 0 5 0 5 11"></polygon>
+    </defs>
+    <g id="Menyu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-189.000000, -467.000000)">
+        <g id="Group" transform="translate(172.000000, 453.000000)">
+            <g id="facebook-letter-logo" transform="translate(17.000000, 14.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M1.08059044,2.13048611 L1.08059044,3.64451389 L0,3.64451389 L0,5.49633333 L1.08059044,5.49633333 L1.08059044,11 L3.30039879,11 L3.30039879,5.49694444 L4.79004226,5.49694444 C4.79004226,5.49694444 4.92961728,4.609 4.99761919,3.63794444 L3.30902922,3.63794444 L3.30902922,2.37156944 C3.30902922,2.18243056 3.55083031,1.92820833 3.79039938,1.92820833 L5,1.92820833 L5,0 L3.35500863,0 C1.0259806,0 1.08059044,1.85365278 1.08059044,2.13048611 Z" id="Fill-1" fill="#8490A1" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

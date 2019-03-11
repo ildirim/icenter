@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="12px" viewBox="0 0 6 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook-letter-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="2.60452735 11.3464558 0 11.3464558 0 0 2.60452735 0 5.20905471 0 5.20905471 11.3464558"></polygon>
+    </defs>
+    <g id="Rehberlik-(-Rehber-daxili)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-213.000000, -1188.000000)">
+        <g id="Group-7" transform="translate(157.000000, 1179.000000)">
+            <g id="Group-6">
+                <g id="Group-2">
+                    <g id="Group" transform="translate(44.000000, 0.000000)">
+                        <g id="facebook-letter-logo" transform="translate(12.260975, 8.965507)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M1.12577095,2.19758786 L1.12577095,3.75930143 L0,3.75930143 L0,5.66944575 L1.12577095,5.66944575 L1.12577095,11.3464558 L3.43839157,11.3464558 L3.43839157,5.67007611 L4.99031844,5.67007611 C4.99031844,5.67007611 5.13572923,4.75416498 5.20657435,3.75252508 L3.44738285,3.75252508 L3.44738285,2.44626435 C3.44738285,2.25116835 3.69929387,1.98893915 3.94887955,1.98893915 L5.20905471,1.98893915 L5.20905471,0 L3.4952847,0 C1.06887781,0 1.12577095,1.91203539 1.12577095,2.19758786 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

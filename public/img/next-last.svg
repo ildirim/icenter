@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="11px" viewBox="0 0 28 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Xəbərlər-(-Daxili-)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1319.000000, -1344.000000)">
+        <g id="Növbəti-xəbər" transform="translate(683.000000, 1184.000000)">
+            <g id="Arrow" transform="translate(636.000000, 161.000000)">
+                <path d="M5.98958333,4.5 L23.40625,4.5" id="Shape" stroke="#FFFFFF" stroke-width="0.8"></path>
+                <path d="M23.0904232,0 C23.439339,0 23.7892377,0.153920275 24.0555931,0.459497291 L26.601204,3.38964135 C27.132932,4.00305891 27.132932,4.99788187 26.601204,5.61016767 L24.0555931,8.54144349 C23.765649,8.87418291 23.3793845,9.02583965 23,8.99641371" id="Shape" stroke="#FFFFFF" stroke-width="0.799999952"></path>
+                <circle id="Oval" fill="#FFFFFF" cx="2" cy="4" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
